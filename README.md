@@ -28,4 +28,4 @@ See /screenshots/
 
 ## Video Demonstration
 
-(Will be added)
+See /video/
